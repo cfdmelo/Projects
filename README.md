@@ -1,6 +1,6 @@
-# *Desafios criados por mim!* 😃❤️
+# **Desafios criados por mim!** 😃❤️
 
-## 🔥 <sub>1º Desafio</sub>: Fazer uma Agenda Telefônica 
+## 🔥 **1º Desafio** Fazer uma Agenda Telefônica 
 
 - Atributos: nome, email, telefone, celular e endereço;
 - Os atributos devem estar encapsulados;
