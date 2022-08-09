@@ -12,3 +12,10 @@
 [E] Buscar contatos;
 - Aplicar POO;
 
+## 🔥 **2º Desafio:** AGENDA DE TAREFAS
+- Atributos: data, descrição, realizado e não realizado;
+- Deve ser possíveç:
+[A] Adicionar uma tarefa;
+[B] Verificar lista de tarefas;
+- Aplicar POO;
+
