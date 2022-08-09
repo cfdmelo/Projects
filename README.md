@@ -1,6 +1,6 @@
 # **Desafios criados por mim!**
 
-####🔥 **1º Desafio:** AGENDA TELEFÔNICA#### 
+#### 🔥 **1º Desafio:** AGENDA TELEFÔNICA
 
 - Atributos: nome, email, telefone, celular e endereço;
 - Os atributos devem estar encapsulados;
@@ -12,7 +12,7 @@
 [E] Buscar contatos;
 - Aplicar POO;
 
-#### 🔥 **2º Desafio:** AGENDA DE TAREFAS####
+#### 🔥 **2º Desafio:** AGENDA DE TAREFAS
 - Atributos: data, descrição, realizado e não realizado;
 - Deve ser possíveç:
 [A] Adicionar uma tarefa;
